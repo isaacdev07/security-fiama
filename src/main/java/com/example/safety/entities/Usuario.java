@@ -6,7 +6,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-// entidade
+// entidade usuário 
 @Entity
 @Table(name ="tb_usuario")
 public class Usuario {
